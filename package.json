@@ -1,7 +1,7 @@
 {
   "name": "movie-fe",
   "version": "1.0.0",
-  "description": "A Vue.js project",
+  "description": "Web Front End",
   "author": "NicholasWade <nwade@unomaha.edu>",
   "private": true,
   "scripts": {
